@@ -1,4 +1,4 @@
-# JavaScript 和 ECMAScript 进阶教程
+# CSS 进阶教程
 
 
 
@@ -25,5 +25,6 @@
 ## License
 
 Copyright © 2021 [Harry Xiong](https://github.com/HarryXiong24).
-This project is [MIT](https://github.com/HarryXiong24/CSS-Advanced-Guidebook/master/LICENSE) licensed.
+
+This project is [MIT](https://github.com/HarryXiong24/CSS-Advanced-Guidebook/blob/master/LICENSE) licensed.
 
